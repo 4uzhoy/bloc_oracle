@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:bloc_oracle/bloc_oracle.dart';
-import 'package:meta/meta.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 /// Descendant of [BlocObserver] which adds objects to [oracleStream]
