@@ -1,8 +1,8 @@
 # Bloc Oracle
 
-<p align="center">
+
 ![](https://github.com/4uzhoy/bloc_oracle/blob/master/.img/logo.png)
-</p>
+
 
 ## About
 A package which allows display the observed result's of Bloc observer on the screen
@@ -12,9 +12,9 @@ A package which allows display the observed result's of Bloc observer on the scr
  * OverlayBlocOracle
 
 ## Example usage:
-<p align="center">
+
 ![](https://github.com/4uzhoy/bloc_oracle/blob/master/.img/screen.png)
-</p>
+
 Set bloc observer
 
 ### main.dart
