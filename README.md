@@ -1,13 +1,22 @@
 # Bloc Oracle
-
+<p align="center">
 ![](https://github.com/4uzhoy/bloc_oracle/blob/master/.img/logo.png)
+</p>
+
 ## About
 A package which allows display the observed result's of Bloc observer on the screen
 
+### Widgets
+ * BlocOracle 
+ * OverlayBlocOracle
 
-#### Example usage:
-
+## Example usage:
+<p align="center">
+![](https://github.com/4uzhoy/bloc_oracle/blob/master/.img/screen.png)
+</p>
 Set bloc observer
+
+### main.dart
 
 ```dart
 void main() {
@@ -27,7 +36,9 @@ void main() {
 ```
 
 Then use OverlayBlocOracle to add Overlay and display observed results or just use BlocOracle
- to wrap only one page without overlay insert
+to wrap only one page without overlay insert
+ 
+see full [example](https://github.com/4uzhoy/bloc_oracle/blob/master/example/lib/main.dart)
 
 ```dart
 /// A [StatelessWidget] which uses:

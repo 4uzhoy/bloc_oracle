@@ -1,6 +1,10 @@
+## [0.1.1] - 2021-02-16
+
+* Updated doc
+
 ## [0.1.0] - 2021-02-16
 
-* Publish to pub.dev
+* Publish to git
 
 ## [0.0.2] - 2021-02-15
 
