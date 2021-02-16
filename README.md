@@ -60,6 +60,7 @@ class App extends StatelessWidget {
               // OverlayBlocOracle using
               child: OverlayBlocOracle(
                   bottom: 0.0,
+                  right: 0.0,
                   maxSymbolsLength: 100,
                   // BlocOracle using
                   child: BlocOracle(child: CounterPage())),
